@@ -2,9 +2,11 @@
 .pio/
 .vscode/
 lib/README
-include/README
+lib/ktly
+lib/animations/sprites/*
+!lib/animations/sprites/sprites_a.h
 
-# Carpeta de recursos (Sprites originales y archivos de diseño)
+# Carpeta de recursos
 res/
 
 # Archivos de sistema o temporales
